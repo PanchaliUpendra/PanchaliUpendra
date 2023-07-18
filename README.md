@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @PanchaliUpendra(https://panchaliupendra.netlify.app/)
+## 👋 Hi, I’m [@PanchaliUpendra](https://panchaliupendra.netlify.app/)
 * 👀 I’m interested in web development and competitive programming
 * 🌱 I’m currently learning backend and linux
 

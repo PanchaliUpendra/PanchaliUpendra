@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PanchaliUpendra
-- 👀 I’m interested in web development and competitive programming
-- 🌱 I’m currently learning backend and linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m @PanchaliUpendra
+* 👀 I’m interested in web development and competitive programming
+* 🌱 I’m currently learning backend and linux
+
 
 <!---
 PanchaliUpendra/PanchaliUpendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

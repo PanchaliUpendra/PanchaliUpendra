@@ -1,4 +1,4 @@
-###👋 Hello, I'm PANCHALI UPENDRA , a passionate full-stack developer with a focus on MERN (MongoDB, Express.js, React, Node.js) stack, Firebase, and mobile app development.
+### 👋 Hello, I'm PANCHALI UPENDRA , a passionate full-stack developer with a focus on MERN (MongoDB, Express.js, React, Node.js) stack, Firebase, and mobile app development.
 
 💼 Currently, I work on various exciting projects, building robust and scalable web applications that leverage the power of modern technologies.
 
